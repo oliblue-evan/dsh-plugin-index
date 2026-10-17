@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Oliblue Evan's DSH Plugins",
+    "zh": "Oliblue Evan 的 DSH 插件"
+  },
+  "description": {
+    "en": "A small index of DSH plugins maintained by olibLue-Evan.",
+    "zh": "由 olibLue-Evan 维护的 DSH 插件索引。"
+  },
+  "plugins": [
+    {
+      "name": "dsh-model-organizer",
+      "title": {
+        "en": "Model Menu Organizer",
+        "zh": "模型菜单整理器"
+      },
+      "description": {
+        "en": "Organize model selection by provider, search and sort models, and manage pinned, recent, renamed, and hidden models.",
+        "zh": "按厂商整理模型菜单，搜索与排序模型，并管理置顶、最近使用、别名和隐藏项。"
+      },
+      "author": "oliblue-evan",
+      "homepage": "https://github.com/oliblue-evan/dsh-model-organizer",
+      "repository": {
+        "url": "https://github.com/oliblue-evan/dsh-model-organizer"
+      },
+      "versions": [
+        {
+          "version": "0.9.0",
+          "publishTimestamp": 1792085471,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/oliblue-evan/dsh-model-organizer",
+            "commit": "a30cd7bbb093fbbd7ef46a510b4fabe46696731f"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-plugin-shelf",
+      "title": {
+        "en": "Plugin Shelf",
+        "zh": "插件书架"
+      },
+      "description": {
+        "en": "Improve the native DSH Plugins page with search, filters, pinning, sorting, compact views, and installation information.",
+        "zh": "为 DSH 原生插件页增加搜索、筛选、置顶、排序、极简视图和安装信息。"
+      },
+      "author": "oliblue-evan",
+      "homepage": "https://github.com/oliblue-evan/dsh-plugin-shelf",
+      "repository": {
+        "url": "https://github.com/oliblue-evan/dsh-plugin-shelf"
+      },
+      "versions": [
+        {
+          "version": "0.6.1",
+          "publishTimestamp": 1792237662,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/oliblue-evan/dsh-plugin-shelf",
+            "commit": "4dcb18bfbe6796f436f46cd3e7212f7eb12d5d0a"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-peakclock",
+      "title": {
+        "en": "DSH Peak Clock",
+        "zh": "DSH 峰谷倒计时"
+      },
+      "description": {
+        "en": "Show DeepSeek peak and off-peak periods and a compact countdown next to the selected model.",
+        "zh": "在模型选择器旁显示 DeepSeek 峰谷时段及简洁倒计时。"
+      },
+      "author": "oliblue-evan",
+      "homepage": "https://github.com/oliblue-evan/dsh-peakclock",
+      "repository": {
+        "url": "https://github.com/oliblue-evan/dsh-peakclock"
+      },
+      "versions": [
+        {
+          "version": "0.1.1",
+          "publishTimestamp": 1792085471,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/oliblue-evan/dsh-peakclock",
+            "commit": "6feba9939d5013bb0970950e0ffcb1ad48fb13fc"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-github-auth",
+      "title": {
+        "en": "GitHub Authorization",
+        "zh": "GitHub 授权"
+      },
+      "description": {
+        "en": "Inspect and manage local GitHub CLI authentication, account, scopes, web login, SSH, and repository access.",
+        "zh": "查看和管理本机 GitHub CLI 登录、账号、权限、网页授权、SSH 与仓库访问。"
+      },
+      "author": "oliblue-evan",
+      "homepage": "https://github.com/oliblue-evan/dsh-github-auth",
+      "repository": {
+        "url": "https://github.com/oliblue-evan/dsh-github-auth"
+      },
+      "versions": [
+        {
+          "version": "0.3.0",
+          "publishTimestamp": 1791939207,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/oliblue-evan/dsh-github-auth",
+            "commit": "4c014fafaef7bc32e318dc34092ef6263dbbd284"
+          }
+        }
+      ]
+    }
+  ]
+}
