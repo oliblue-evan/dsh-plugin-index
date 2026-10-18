@@ -10,11 +10,11 @@ The index uses DSH market format 1 and pins each Git source to an exact commit, 
 
 ## Included plugins
 
-- `dsh-model-organizer` — Model Menu Organizer
-- `dsh-plugin-shelf` — Plugin Shelf
-- `dsh-peakclock` — DSH Peak Clock
-- `dsh-github-auth` — GitHub Authorization
-- `dsh-sidebar-organizer` — Sidebar Organizer
-- `dsh-usage-pill` — Usage & Balance Pill
+- `dsh-liao-models` — Model Menu Organizer
+- `dsh-liao-shelf` — Plugin Shelf
+- `dsh-liao-peakclock` — DSH Peak Clock
+- `dsh-liao-github` — GitHub Authorization
+- `dsh-liao-sidebar` — Sidebar Organizer
+- `dsh-liao-usage` — Usage & Balance Pill
 
 The index is static. To publish a new plugin release, update the version, commit SHA, and commit timestamp in `index.json`, then push the change to `main`.

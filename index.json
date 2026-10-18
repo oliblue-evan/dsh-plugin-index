@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "dsh-model-organizer",
+      "name": "dsh-liao-models",
       "title": {
         "en": "Model Menu Organizer",
         "zh": "模型菜单整理器"
@@ -20,24 +20,24 @@
         "zh": "按厂商整理模型菜单，搜索与排序模型，并管理置顶、最近使用、别名和隐藏项。"
       },
       "author": "oliblue-evan",
-      "homepage": "https://github.com/oliblue-evan/dsh-model-organizer",
+      "homepage": "https://github.com/oliblue-evan/dsh-liao-models",
       "repository": {
-        "url": "https://github.com/oliblue-evan/dsh-model-organizer"
+        "url": "https://github.com/oliblue-evan/dsh-liao-models"
       },
       "versions": [
         {
           "version": "0.9.0",
-          "publishTimestamp": 1792085471,
+          "publishTimestamp": 1792292416,
           "source": {
             "type": "git",
-            "url": "https://github.com/oliblue-evan/dsh-model-organizer",
-            "commit": "a30cd7bbb093fbbd7ef46a510b4fabe46696731f"
+            "url": "https://github.com/oliblue-evan/dsh-liao-models",
+            "commit": "16a0085be24bdc1f5f5cef0afba55c5c1981d5f9"
           }
         }
       ]
     },
     {
-      "name": "dsh-plugin-shelf",
+      "name": "dsh-liao-shelf",
       "title": {
         "en": "Plugin Shelf",
         "zh": "插件书架"
@@ -47,24 +47,24 @@
         "zh": "为 DSH 原生插件页增加搜索、筛选、置顶、排序、极简视图和安装信息。"
       },
       "author": "oliblue-evan",
-      "homepage": "https://github.com/oliblue-evan/dsh-plugin-shelf",
+      "homepage": "https://github.com/oliblue-evan/dsh-liao-shelf",
       "repository": {
-        "url": "https://github.com/oliblue-evan/dsh-plugin-shelf"
+        "url": "https://github.com/oliblue-evan/dsh-liao-shelf"
       },
       "versions": [
         {
-          "version": "0.6.1",
-          "publishTimestamp": 1792237662,
+          "version": "0.7.0",
+          "publishTimestamp": 1792292418,
           "source": {
             "type": "git",
-            "url": "https://github.com/oliblue-evan/dsh-plugin-shelf",
-            "commit": "4dcb18bfbe6796f436f46cd3e7212f7eb12d5d0a"
+            "url": "https://github.com/oliblue-evan/dsh-liao-shelf",
+            "commit": "9a92c50c96671309ceb89647a1f61027883d8c51"
           }
         }
       ]
     },
     {
-      "name": "dsh-peakclock",
+      "name": "dsh-liao-peakclock",
       "title": {
         "en": "DSH Peak Clock",
         "zh": "DSH 峰谷倒计时"
@@ -74,24 +74,24 @@
         "zh": "在模型选择器旁显示 DeepSeek 峰谷时段及简洁倒计时。"
       },
       "author": "oliblue-evan",
-      "homepage": "https://github.com/oliblue-evan/dsh-peakclock",
+      "homepage": "https://github.com/oliblue-evan/dsh-liao-peakclock",
       "repository": {
-        "url": "https://github.com/oliblue-evan/dsh-peakclock"
+        "url": "https://github.com/oliblue-evan/dsh-liao-peakclock"
       },
       "versions": [
         {
-          "version": "0.1.1",
-          "publishTimestamp": 1792085471,
+          "version": "0.1.2",
+          "publishTimestamp": 1792292423,
           "source": {
             "type": "git",
-            "url": "https://github.com/oliblue-evan/dsh-peakclock",
-            "commit": "6feba9939d5013bb0970950e0ffcb1ad48fb13fc"
+            "url": "https://github.com/oliblue-evan/dsh-liao-peakclock",
+            "commit": "48d663e64e582182eb7bec5f087ee3680f5ebc04"
           }
         }
       ]
     },
     {
-      "name": "dsh-github-auth",
+      "name": "dsh-liao-github",
       "title": {
         "en": "GitHub Authorization",
         "zh": "GitHub 授权"
@@ -101,24 +101,24 @@
         "zh": "查看和管理本机 GitHub CLI 登录、账号、权限、网页授权、SSH 与仓库访问。"
       },
       "author": "oliblue-evan",
-      "homepage": "https://github.com/oliblue-evan/dsh-github-auth",
+      "homepage": "https://github.com/oliblue-evan/dsh-liao-github",
       "repository": {
-        "url": "https://github.com/oliblue-evan/dsh-github-auth"
+        "url": "https://github.com/oliblue-evan/dsh-liao-github"
       },
       "versions": [
         {
           "version": "0.3.0",
-          "publishTimestamp": 1791939207,
+          "publishTimestamp": 1792292425,
           "source": {
             "type": "git",
-            "url": "https://github.com/oliblue-evan/dsh-github-auth",
-            "commit": "4c014fafaef7bc32e318dc34092ef6263dbbd284"
+            "url": "https://github.com/oliblue-evan/dsh-liao-github",
+            "commit": "f7c12f7056a429d18fce40d3923ee7b48fb8e91c"
           }
         }
       ]
     },
     {
-      "name": "dsh-sidebar-organizer",
+      "name": "dsh-liao-sidebar",
       "title": {
         "en": "Sidebar Organizer",
         "zh": "侧栏管家"
@@ -128,18 +128,18 @@
         "zh": "整理侧栏入口、设置快捷键、添加自定义链接，并在当前页面位于「更多」时显示对应的侧栏入口。"
       },
       "author": "oliblue-evan",
-      "homepage": "https://github.com/oliblue-evan/dsh-sidebar-organizer",
+      "homepage": "https://github.com/oliblue-evan/dsh-liao-sidebar",
       "repository": {
-        "url": "https://github.com/oliblue-evan/dsh-sidebar-organizer"
+        "url": "https://github.com/oliblue-evan/dsh-liao-sidebar"
       },
       "versions": [
         {
           "version": "0.1.1",
-          "publishTimestamp": 1792286951,
+          "publishTimestamp": 1792292420,
           "source": {
             "type": "git",
-            "url": "https://github.com/oliblue-evan/dsh-sidebar-organizer",
-            "commit": "b581d3e84f06e60296dcd25587fc19db94fceddd"
+            "url": "https://github.com/oliblue-evan/dsh-liao-sidebar",
+            "commit": "5f86eff3b7a0197fa3c4056a16691b21f3c9407f"
           },
           "engines": {
             "dsh": "0.2.0-rc.2 || 0.2.1-rc.2"
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "name": "dsh-usage-pill",
+      "name": "dsh-liao-usage",
       "title": {
         "en": "Usage & Balance Pill",
         "zh": "用量与余额胶囊"
@@ -158,18 +158,18 @@
         "zh": "查看会话用量、DeepSeek 价表参考费用与账户余额；按模型展开明细，自定义底部胶囊。"
       },
       "author": "oliblue-evan",
-      "homepage": "https://github.com/oliblue-evan/dsh-usage-pill",
+      "homepage": "https://github.com/oliblue-evan/dsh-liao-usage",
       "repository": {
-        "url": "https://github.com/oliblue-evan/dsh-usage-pill"
+        "url": "https://github.com/oliblue-evan/dsh-liao-usage"
       },
       "versions": [
         {
           "version": "1.2.0",
-          "publishTimestamp": 1791970741,
+          "publishTimestamp": 1792292427,
           "source": {
             "type": "git",
-            "url": "https://github.com/oliblue-evan/dsh-usage-pill",
-            "commit": "611e52282f6b43f509a4d2497e18b406d67ac313"
+            "url": "https://github.com/oliblue-evan/dsh-liao-usage",
+            "commit": "460b55244414d8665d248d6106e68ec911548a18"
           }
         }
       ]
