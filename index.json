@@ -134,12 +134,12 @@
       },
       "versions": [
         {
-          "version": "0.2.0",
-          "publishTimestamp": 1792304530,
+          "version": "0.2.1",
+          "publishTimestamp": 1792305041,
           "source": {
             "type": "git",
             "url": "https://github.com/oliblue-evan/dsh-liao-sidebar",
-            "commit": "bad1a009e43fe91382d4d4f1f96e040a1c1017c6"
+            "commit": "426bad628671509a8787a954cfc1d6b28a176f2b"
           },
           "engines": {
             "dsh": "0.2.0-rc.2 || 0.2.1-rc.2"
