@@ -165,11 +165,11 @@
       "versions": [
         {
           "version": "1.2.0",
-          "publishTimestamp": 1792292427,
+          "publishTimestamp": 1792294314,
           "source": {
             "type": "git",
             "url": "https://github.com/oliblue-evan/dsh-liao-usage",
-            "commit": "460b55244414d8665d248d6106e68ec911548a18"
+            "commit": "e69630c947086f6eb24b1e5abff08647e2bc2e08"
           }
         }
       ]
