@@ -135,11 +135,11 @@
       "versions": [
         {
           "version": "0.1.1",
-          "publishTimestamp": 1792258397,
+          "publishTimestamp": 1792286951,
           "source": {
             "type": "git",
             "url": "https://github.com/oliblue-evan/dsh-sidebar-organizer",
-            "commit": "0d4a20ef5f34a97fa5a94f4a0b8a13cd9198d43c"
+            "commit": "b581d3e84f06e60296dcd25587fc19db94fceddd"
           },
           "engines": {
             "dsh": "0.2.0-rc.2 || 0.2.1-rc.2"
