@@ -146,6 +146,33 @@
           }
         }
       ]
+    },
+    {
+      "name": "dsh-usage-pill",
+      "title": {
+        "en": "Usage & Balance Pill",
+        "zh": "用量与余额胶囊"
+      },
+      "description": {
+        "en": "View session usage, DeepSeek reference costs, and account balance; expand details by model and customize the bottom pill.",
+        "zh": "查看会话用量、DeepSeek 价表参考费用与账户余额；按模型展开明细，自定义底部胶囊。"
+      },
+      "author": "oliblue-evan",
+      "homepage": "https://github.com/oliblue-evan/dsh-usage-pill",
+      "repository": {
+        "url": "https://github.com/oliblue-evan/dsh-usage-pill"
+      },
+      "versions": [
+        {
+          "version": "1.2.0",
+          "publishTimestamp": 1791970741,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/oliblue-evan/dsh-usage-pill",
+            "commit": "611e52282f6b43f509a4d2497e18b406d67ac313"
+          }
+        }
+      ]
     }
   ]
 }

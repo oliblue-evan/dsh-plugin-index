@@ -15,5 +15,6 @@ The index uses DSH market format 1 and pins each Git source to an exact commit, 
 - `dsh-peakclock` — DSH Peak Clock
 - `dsh-github-auth` — GitHub Authorization
 - `dsh-sidebar-organizer` — Sidebar Organizer
+- `dsh-usage-pill` — Usage & Balance Pill
 
 The index is static. To publish a new plugin release, update the version, commit SHA, and commit timestamp in `index.json`, then push the change to `main`.
