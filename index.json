@@ -183,7 +183,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/oliblue-evan/dsh-liao-shelf",
-            "commit": "137c782"
+            "commit": "137c782af731fd6d5ff7810de18df12111764581"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0-0"
@@ -231,7 +231,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/oliblue-evan/dsh-liao-peakclock",
-            "commit": "a7347e5"
+            "commit": "a7347e545ab678e02439ec1fd8a1f9e5924ffba1"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0-0"
@@ -283,7 +283,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/oliblue-evan/dsh-liao-github",
-            "commit": "0d454cb"
+            "commit": "0d454cba1f5638abccea46eb7fae26924e9055ee"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0-0"
@@ -377,7 +377,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/oliblue-evan/dsh-liao-usage",
-            "commit": "c02e325"
+            "commit": "c02e325af56a1fbae8dd89414171d9f791207019"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0-0"
