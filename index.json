@@ -178,12 +178,12 @@
       },
       "versions": [
         {
-          "version": "0.7.2",
-          "publishTimestamp": 1794932753,
+          "version": "0.7.7",
+          "publishTimestamp": 1795006268,
           "source": {
             "type": "git",
             "url": "https://github.com/oliblue-evan/dsh-liao-shelf",
-            "commit": "137c782af731fd6d5ff7810de18df12111764581"
+            "commit": "c0a9595120dff34d62e0ce756bb3698cb586ba74"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0-0"
