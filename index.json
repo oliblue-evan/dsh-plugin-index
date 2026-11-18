@@ -269,7 +269,8 @@
           "network",
           "credentials",
           "fs-write",
-          "env"
+          "env",
+          "fs-read"
         ],
         "sortKeys": {
           "npm_weekly_downloads": 98,
@@ -363,7 +364,8 @@
         ],
         "labels": [
           "network",
-          "credentials"
+          "credentials",
+          "fs-read"
         ],
         "sortKeys": {
           "npm_weekly_downloads": 158,
