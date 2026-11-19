@@ -336,56 +336,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "dsh-liao-usage",
-      "title": {
-        "en": "Usage & Balance Pill",
-        "zh": "用量与余额胶囊"
-      },
-      "description": {
-        "en": "View session usage, DeepSeek reference costs, and account balance; expand details by model and customize the bottom pill.",
-        "zh": "查看会话用量、DeepSeek 价表参考费用与账户余额；按模型展开明细，自定义底部胶囊。"
-      },
-      "author": "oliblue-evan",
-      "homepage": "https://github.com/oliblue-evan/dsh-liao-usage",
-      "repository": {
-        "url": "https://github.com/oliblue-evan/dsh-liao-usage"
-      },
-      "metadata": {
-        "category": "usage",
-        "keywords": [
-          "dsh-plugin",
-          "usage",
-          "tokens",
-          "billing",
-          "balance",
-          "cost"
-        ],
-        "labels": [
-          "network",
-          "credentials",
-          "fs-read"
-        ],
-        "sortKeys": {
-          "npm_weekly_downloads": 158,
-          "github_stars": 0
-        }
-      },
-      "versions": [
-        {
-          "version": "1.2.1",
-          "publishTimestamp": 1794932753,
-          "source": {
-            "type": "git",
-            "url": "https://github.com/oliblue-evan/dsh-liao-usage",
-            "commit": "c02e325af56a1fbae8dd89414171d9f791207019"
-          },
-          "engines": {
-            "dsh": ">=0.2.1-rc.2 <0.3.0-0"
-          }
-        }
-      ]
     }
   ]
 }

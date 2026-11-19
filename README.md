@@ -17,6 +17,5 @@ The index declares categories, capability labels and sort keys, and each plugin 
 - `dsh-liao-peakclock` — DSH Peak Clock
 - `dsh-liao-github` — GitHub Authorization
 - `dsh-liao-sidebar` — Sidebar Organizer
-- `dsh-liao-usage` — Usage & Balance Pill
 
 The index is static. To publish a new plugin release, update the version, commit SHA, and commit timestamp in `index.json`, then push the change to `main`.
